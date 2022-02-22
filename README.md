@@ -1,2 +1,2 @@
 ##52 Programming Problem and Solution - Tamim Shahriar Subeen
-Solved by me
+##Solved my be
