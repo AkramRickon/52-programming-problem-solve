@@ -1,2 +1,2 @@
-##52 Programming Problem and Solution - Tamim Shahriar Subeen
-##Solved my be
+##52 Programming Problem and Solution - Tamim Shahriar Subeen</br>
+Solved By Me
