@@ -1,1 +1,2 @@
-## 52 Programming Problem and Solve By Tamim Shahriar Subeen
+# 52 Programming Problem and Solution By Tamim Shahriar Subeen
+Solved by me
